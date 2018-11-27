@@ -1,4 +1,4 @@
-package kim.noah.base
+package noah.kim.base
 
 import org.junit.Test
 
