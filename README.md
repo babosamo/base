@@ -3,7 +3,7 @@ Android Base Library
 
 
 ### Usage
-* set submodeul
+* set submodule
 	* mkdir base
 	* cd base
 	* git submodule add https://github.com/babosamo/base.git
