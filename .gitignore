@@ -13,6 +13,13 @@ bin/
 gen/
 out/
 
+.idea
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+
+*.iml
+
 # Gradle files
 .gradle/
 build/
